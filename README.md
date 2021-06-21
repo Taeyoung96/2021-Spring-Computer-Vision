@@ -18,7 +18,11 @@ Assignment for 2021 spring Computer Vision lecture
 
 - `Description` : **어떤 과제를 수행을 했고, 어떻게 동작하는지 설명을 위한 `.md`파일 모음 폴더**  
   - `CV01` ~ `CV08` : 각 과제 문제 설명 및 해결 방법  
-  
+
+## How to use this program 
+
+메뉴바에 있는 번호를 클릭하면, 해당 Homework을 어떻게 수행했는지 알 수 있다.  
+1. `HW01` : 이미지를 불러온 후, Hue, Value, Saturation, 세피아 톤 이미지 출력 - [HW01 solution](https://github.com/Taeyoung96/2021-Spring-Computer-Vision/blob/master/Description/cv01.md)  
 
 
 
