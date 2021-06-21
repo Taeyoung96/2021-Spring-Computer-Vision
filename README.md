@@ -22,8 +22,14 @@ Assignment for 2021 spring Computer Vision lecture
 ## How to use this program 
 
 메뉴바에 있는 번호를 클릭하면, 해당 Homework을 어떻게 수행했는지 알 수 있다.  
-1. `HW01` : 이미지를 불러온 후, Hue, Value, Saturation, 세피아 톤 이미지 출력 - [HW01 solution](https://github.com/Taeyoung96/2021-Spring-Computer-Vision/blob/master/Description/cv01.md)  
-
+1. `HW01` : Hue, Value, Saturation, 세피아 톤 이미지 출력 - [HW01 solution](https://github.com/Taeyoung96/2021-Spring-Computer-Vision/blob/master/Description/cv01.md)  
+2. `HW02` : Otsu algorithm을 이용하여 이진화, Dilation, Erosion, 8-Neighbor labeling 구현 - [HW02 solution](https://github.com/Taeyoung96/2021-Spring-Computer-Vision/blob/master/Description/cv02.md)  
+3. `HW03` : Histogram Equalization, Histogram Matching 구현 - [HW03 solution](https://github.com/Taeyoung96/2021-Spring-Computer-Vision/blob/master/Description/cv03.md)  
+4. `HW04` : Gaussian-noised Image 만들기, Pepper & Salt Image 만들기, Box filter, Gaussian-filter, Median filter 구현- [HW04 solution](https://github.com/Taeyoung96/2021-Spring-Computer-Vision/blob/master/Description/cv04.md)  
+5. `HW05` : FDG algorithm, Canny edge algorithm 구현 - [HW05 solution](https://github.com/Taeyoung96/2021-Spring-Computer-Vision/blob/master/Description/cv05.md)  
+6. `HW06` : Hough circle Transform 구현, Generanlized Hough Transform 구현 - [HW06 solution](https://github.com/Taeyoung96/2021-Spring-Computer-Vision/blob/master/Description/cv06.md)  
+7. `HW07` : SIFT 구현 (Gaussian scale Image, DOG scale Image, Keypoint Detection, Descriptor) - [HW07 solution](https://github.com/Taeyoung96/2021-Spring-Computer-Vision/blob/master/Description/cv07.md)  
+8. `HW08` : Optical Flow 구현 (Image pyramid 구현) - [HW08 solution](https://github.com/Taeyoung96/2021-Spring-Computer-Vision/blob/master/Description/cv08.md)  
 
 
 
