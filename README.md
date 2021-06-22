@@ -21,6 +21,9 @@ Assignment for 2021 spring Computer Vision lecture
 
 ## How to use this program 
 
+<p align="center"><img src="Description/Image/main.JPG" width="360px"></p>  
+<p align="center"> < 프로그램 실행시 보이는 화면 ></p>  
+
 메뉴바에 있는 번호를 클릭하면, 해당 Homework을 어떻게 수행했는지 알 수 있다.  
 1. `HW01` : Hue, Value, Saturation, 세피아 톤 이미지 출력 - [HW01 solution](https://github.com/Taeyoung96/2021-Spring-Computer-Vision/blob/master/Description/cv01.md)  
 2. `HW02` : Otsu algorithm을 이용하여 이진화, Dilation, Erosion, 8-Neighbor labeling 구현 - [HW02 solution](https://github.com/Taeyoung96/2021-Spring-Computer-Vision/blob/master/Description/cv02.md)  
