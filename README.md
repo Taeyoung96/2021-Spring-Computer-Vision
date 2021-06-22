@@ -21,7 +21,7 @@ Assignment for 2021 spring Computer Vision lecture
 
 ## How to use this program 
 
-<p align="center"><img src="Description/Image/main.JPG" width="360px"></p>  
+<p align="center"><img src="Description/Image/main.JPG" width="300px"></p>  
 <p align="center"> < 프로그램 실행시 보이는 화면 ></p>  
 
 메뉴바에 있는 번호를 클릭하면, 해당 Homework을 어떻게 수행했는지 알 수 있다.  
